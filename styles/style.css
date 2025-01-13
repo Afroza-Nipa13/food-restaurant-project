@@ -155,6 +155,35 @@ margin-bottom: 10px;
      background: rgba(82, 195, 3, 0.15);
 }
 
+/* about section starts here  */
 
+#about{
+
+
+
+
+}
+.about-wrapper{
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+    padding:25px;
+    gap: 30px;
+
+}
+
+.right-content{
+  /* width: 500px;
+  height:300px;
+  padding left:00px;
+  padding right: 100px; */
+ 
+  
+}
+
+
+.left-content{
+
+}
 
         
